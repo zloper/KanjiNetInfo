@@ -1,0 +1,2 @@
+# KanjiNetInfo
+KanjiNetInfo
